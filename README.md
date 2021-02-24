@@ -1,8 +1,7 @@
 # Aragon Template Turorial
 
-## 1. Add Template 
+## 2. Add Scripts
 
-- Add the template to the contracts file 
-- Modify the `arapp.json` file with the template name
-- run `yarn`
-- run `yarn compile`
+- Modify `scripts/deploy.js`
+- Modify `arapp.json` with your contract name
+- Add `scripts/new_dao.js` scrips

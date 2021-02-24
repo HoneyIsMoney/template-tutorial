@@ -16,7 +16,7 @@
       "network": "xdai"
     },
     "rinkeby": {
-      "appName": "placeholder.aragonpm.eth",
+      "appName": "CompanyTemplate.open.aragonpm.eth",
       "address": "0x392c31e319dda89fc8dcf657b4a0d356b32a7495",
       "network": "rinkeby",
       "registry": "0x98Df287B6C145399Aaa709692c8D308357bC085D"
