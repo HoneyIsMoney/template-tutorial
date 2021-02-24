@@ -17,7 +17,7 @@
     },
     "rinkeby": {
       "appName": "company-template.aragonpm.eth",
-      "address": "0x293a486a7b1915d300770a6041609c6d3fdc805b",
+      "address": "0xdf396459d71b3ffb993dc63515c93ede20c45462",
       "network": "rinkeby",
       "registry": "0x98Df287B6C145399Aaa709692c8D308357bC085D"
     }

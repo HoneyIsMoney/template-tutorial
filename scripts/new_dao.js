@@ -4,7 +4,7 @@ const path = require("path");
 const abi = require("../build/contracts/CompanyTemplate.json").abi;
 const { rpc, keys } = require(path.join(homedir(), `.aragon/rinkeby_key.json`));
 
-const CompanyTemplateAddress = "0x293a486a7b1915d300770a6041609c6d3fdc805b";
+const CompanyTemplateAddress = "0xdf396459d71b3ffb993dc63515c93ede20c45462";
 
 async function main() {
   // 0. setup provider and signer
