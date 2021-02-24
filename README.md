@@ -1,13 +1,8 @@
 # Aragon Template Turorial
 
-## Base Template configuration
+## 1. Add Template 
 
-- create a folder `~./.aragon`
-- create a file `rinkeby_key.json`
-
-```
-  "rpc": "https://rinkeby.infura.io/v3/<your_infura_id>",
-  "keys": [
-    "<your_private_key>"
-  ]
-```
+- Add the template to the contracts file 
+- Modify the `arapp.json` file with the template name
+- run `yarn`
+- run `yarn compile`
